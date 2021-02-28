@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Balym jwt secret",
+  "mongoUri": "mongodb+srv://zhaksylyk:s55122@cluster0.fekri.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
